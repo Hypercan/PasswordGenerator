@@ -1,7 +1,7 @@
 # PasswordGenerator
 
 Welcome to the Password Generator app! This app allows you to easily generate secure passwords with the click of a button.
-
+![User Screen](/Password%20Generator.png "Password Generator")
 ## Features
 - Generate button: Click this button to generate a new password.
 - Two generated options: Two password options will be generated for you to choose from.
